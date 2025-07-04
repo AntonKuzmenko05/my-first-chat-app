@@ -1,4 +1,5 @@
 # my-first-chat-app
+# MERN stack
 
 Highlights:
 
